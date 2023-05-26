@@ -1,0 +1,7 @@
+[Sun Apr 23 13:17:38 BRT 2023] Registro Adicionado: 
+Distancia Pavimentada: 70.0
+Distancia não pavimentada: 20.0
+Distância Total: 90.0
+Tipo de Veículo: Caminhao toco
+Peso da Carga: 5.0
+Frete: 63.18000000000001
